@@ -4,11 +4,8 @@
 ### Anaconda
 - https://www.anaconda.com/download
 
-### InfoLite
-- https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
+### 資料集：
+- https://drive.google.com/file/d/1qKTtlwZiHKPXk7E1EfkCJkR1kd-NAu8M/view?usp=sharing
 
-## Python 簡介
-
-### Python 101 程式碼
-- https://github.com/ywchiu/pyfintech/blob/master/Python101.ipynb
-
+### 投影片
+- 
