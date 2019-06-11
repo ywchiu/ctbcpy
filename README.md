@@ -1,5 +1,8 @@
 # 中國信託 Python 教育訓練課程
 
+## Spark 環境位置
+- http://35.197.126.102:8080/#/
+
 ## 課前須知
 ### Anaconda
 - https://www.anaconda.com/download
